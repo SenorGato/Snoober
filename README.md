@@ -1,0 +1,2 @@
+# Snoober
+Cognitive Load Reducer
